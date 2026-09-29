@@ -1,7 +1,7 @@
 # Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
-## AIM
+## AIM:
 
 To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
 
